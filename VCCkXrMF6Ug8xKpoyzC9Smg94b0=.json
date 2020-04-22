@@ -1,6 +1,6 @@
 {
 	"plugin_status" : true,
-	"beta_server_groups" : [""],
+	"beta_server_groups" : ["1418","1511"],
 	"dispatch_server_groups" : ["1413", "1407", "1761", "1810"],
 	"dispatch_advanced_server_groups" : ["1440"],
 	"dispatch_name_tags" : ["[P]", "[S]", "[T]", "[FIRE]", "[SA]", "[QA]", "[911]", "[TAC]"],
