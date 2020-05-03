@@ -11,7 +11,8 @@
         "[SA]",
         "[QA]",
         "[911]",
-        "[TAC]"
+        "[TAC]",
+        "[EVAL]"
     ],
     "civilian_server_groups": [
         "1581",
