@@ -48,7 +48,18 @@
         2212
     ],
     "radio_systems": [1611, 1621, 1631, 1641, 1651, 1668, 2156, 2206, 2204],
-    "rto_channels": [1614, 1624, 1634, 1644, 1654, 1670, 2159, 2210, 2233, 2237],
+    "rto_channels": [
+        1614,
+        1624,
+        1634,
+        1644,
+        1654,
+        1670,
+        2159,
+        2210,
+        2233,
+        2237
+    ],
     "radio_channels": [
         {
             "id": 1,
@@ -57,7 +68,7 @@
             "type": "LEO",
             "colored_name": "[color=green]Patrol Ops[/color]",
             "talk_enforcement": true,
-			"talk_around": false,
+            "talk_around": false,
             "encrypted": false,
             "permission": 1
         },
@@ -68,7 +79,7 @@
             "type": "LEO",
             "colored_name": "[color=orange]Fire Ops[/color]",
             "talk_enforcement": true,
-			"talk_around": false,
+            "talk_around": false,
             "encrypted": false,
             "permission": 1
         },
@@ -79,7 +90,7 @@
             "type": "LEO",
             "colored_name": "[color=purple]Tac 1[/color]",
             "talk_enforcement": true,
-			"talk_around": false,
+            "talk_around": false,
             "encrypted": true,
             "permission": 1
         },
@@ -90,7 +101,7 @@
             "type": "LEO",
             "colored_name": "[color=purple]Tac 2[/color]",
             "talk_enforcement": true,
-			"talk_around": false,
+            "talk_around": true,
             "encrypted": true,
             "permission": 1
         }
