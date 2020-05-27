@@ -1,5 +1,6 @@
 {
     "plugin_status": true,
+    "talk_around_range": 1500,
     "dispatch_server_groups": [],
     "civilian_server_groups": [],
     "civ_channels": [1],
