@@ -1,6 +1,6 @@
 {
     "plugin_status": true,
-    "talk_around_range": 2500,
+    "talk_around_range": 1500,
     "beta_server_groups": ["1418", "1511"],
     "dispatch_server_groups": ["1413", "1407", "1761", "1810"],
     "dispatch_advanced_server_groups": ["1440"],
