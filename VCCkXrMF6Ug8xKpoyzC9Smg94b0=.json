@@ -102,8 +102,30 @@
             "type": "LEO",
             "colored_name": "[color=purple]Tac 2[/color]",
             "talk_enforcement": true,
-            "talk_around": true,
+            "talk_around": false,
             "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "LEO Cars",
+            "sound_name": "Ch_LEOCars",
+            "type": "LEO",
+            "colored_name": "[color=gray]LEO Cars[/color]",
+            "talk_enforcement": true,
+            "talk_around": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Fireground",
+            "sound_name": "Ch_Fireground",
+            "type": "LEO",
+            "colored_name": "[color=gray]Fireground[/color]",
+            "talk_enforcement": true,
+            "talk_around": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
