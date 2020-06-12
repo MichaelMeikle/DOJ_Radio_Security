@@ -1,8 +1,8 @@
 {
 	"plugin_status" : true,
 	"command_validation_str" : "Radio19",
-	"current_versions" : [ "2.0.2", "2.0.2-beta.1", "2.1.0-beta.1", "2.1.0" ],
-	"permitted_version" : [ "2.0.1" ],
+	"current_versions" : [ "2.1.0-beta.1", "2.1.0" ],
+	"permitted_version" : [ ],
 	"authorized_servers" : [ "VCCkXrMF6Ug8xKpoyzC9Smg94b0=" ],
 	"dev_uid_list" : [ "GhfyobshzntzcZnh6o+IEUmJEc0=", "xeC4XznolCFCX7vofE7gGg2cYKw=", "9S3J/7yfQKA5V93PfSMB+dbPUOM="]
 }
