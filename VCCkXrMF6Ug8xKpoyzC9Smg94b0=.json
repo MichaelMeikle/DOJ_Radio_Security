@@ -82,7 +82,7 @@
             "colored_name": "[color=orange]Fire Ops[/color]",
             "talk_enforcement": true,
             "talk_around": false,
-			"scannable": true,
+            "scannable": true,
             "encrypted": false,
             "permission": 1
         },
@@ -94,7 +94,7 @@
             "colored_name": "[color=purple]Tac 1[/color]",
             "talk_enforcement": true,
             "talk_around": false,
-			"scannable": true,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -106,7 +106,7 @@
             "colored_name": "[color=purple]Tac 2[/color]",
             "talk_enforcement": true,
             "talk_around": false,
-			"scannable": true,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -118,7 +118,7 @@
             "colored_name": "[color=gray]LEO Cars[/color]",
             "talk_enforcement": true,
             "talk_around": true,
-			"scannable": true,
+            "scannable": true,
             "encrypted": false,
             "permission": 1
         },
@@ -130,7 +130,7 @@
             "colored_name": "[color=gray]Fireground[/color]",
             "talk_enforcement": true,
             "talk_around": true,
-			"scannable": true,
+            "scannable": true,
             "encrypted": false,
             "permission": 1
         }
