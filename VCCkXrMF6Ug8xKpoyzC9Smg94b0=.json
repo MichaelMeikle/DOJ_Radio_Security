@@ -141,9 +141,9 @@
             "type": "LEO",
             "colored_name": "[color=red]Private 1[/color]",
             "talk_enforcement": true,
-            "talk_around": true,
+            "talk_around": false,
             "scannable": false,
-            "encrypted": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
