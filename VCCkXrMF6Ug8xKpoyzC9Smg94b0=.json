@@ -133,6 +133,18 @@
             "scannable": true,
             "encrypted": false,
             "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Private 1",
+            "sound_name": "Ch_Private1",
+            "type": "LEO",
+            "colored_name": "[color=red]Private 1[/color]",
+            "talk_enforcement": true,
+            "talk_around": true,
+            "scannable": false,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
