@@ -46,9 +46,10 @@
         2162,
         2163,
         2164,
-        2212
+        2212,
+	2332
     ],
-    "radio_systems": [1611, 1621, 1631, 1641, 1651, 1668, 2156, 2206, 2204],
+    "radio_systems": [1611, 1621, 1631, 1641, 1651, 1668, 2156, 2206, 2204, 2322],
     "rto_channels": [
         1614,
         1624,
@@ -59,7 +60,8 @@
         2159,
         2210,
         2233,
-        2237
+        2237,
+	2324
     ],
     "radio_channels": [
         {
@@ -70,7 +72,7 @@
             "colored_name": "[color=green]Patrol Ops[/color]",
             "talk_enforcement": true,
             "talk_around": false,
-			"scannable": true,
+	    "scannable": true,
             "encrypted": false,
             "permission": 1
         },
