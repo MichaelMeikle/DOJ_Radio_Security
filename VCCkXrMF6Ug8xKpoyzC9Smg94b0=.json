@@ -162,7 +162,7 @@
     },
     "permissions": {
         "perm_basic": {
-            "server_group_list": ["1418", "1415", "1442"],
+            "server_group_list": ["1418", "1415", "1945","1442"],
             "client_uid_list": [""]
         },
         "perm_extra": {
