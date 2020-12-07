@@ -136,8 +136,20 @@
             "encrypted": false,
             "permission": 1
         },
-        {
+	{
             "id": 7,
+            "name": "SW Tow",
+            "sound_name": "Ch_SWTow",
+            "type": "LEO",
+            "colored_name": "[color=#816E59]Statewide Tow[/color]",
+            "talk_enforcement": true,
+            "talk_around": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
             "name": "Private 1",
             "sound_name": "Ch_Private1",
             "type": "LEO",
