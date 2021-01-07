@@ -67,10 +67,22 @@
     "radio_channels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
-            "sound_name": "Ch_SWDispatch",
+            "name": "Patrol Ops 1",
+            "sound_name": "Ch_PatrolOps1",
             "type": "LEO",
-            "colored_name": "[color=green]Patrol Ops[/color]",
+            "colored_name": "[color=green]Patrol Ops 1[/color]",
+            "talk_enforcement": true,
+            "talk_around": false,
+	    "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+	{
+            "id": 2,
+            "name": "Patrol Ops 2",
+            "sound_name": "Ch_PatrolOps2",
+            "type": "LEO",
+            "colored_name": "[color=green]Patrol Ops 2[/color]",
             "talk_enforcement": true,
             "talk_around": false,
 	    "scannable": true,
@@ -78,7 +90,7 @@
             "permission": 1
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Fire Ops",
             "sound_name": "Ch_FireOps",
             "type": "LEO",
@@ -90,7 +102,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Tac 1",
             "sound_name": "Ch_Tac1",
             "type": "LEO",
@@ -102,7 +114,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Tac 2",
             "sound_name": "Ch_Tac2",
             "type": "LEO",
@@ -114,7 +126,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "LEO Cars",
             "sound_name": "Ch_LEOCars",
             "type": "LEO",
@@ -126,7 +138,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Fireground",
             "sound_name": "Ch_Fireground",
             "type": "LEO",
@@ -138,7 +150,7 @@
             "permission": 1
         },
 	{
-            "id": 7,
+            "id": 8,
             "name": "SW Tow",
             "sound_name": "Ch_SWTow",
             "type": "LEO",
@@ -150,7 +162,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Private 1",
             "sound_name": "Ch_Private1",
             "type": "LEO",
