@@ -3,7 +3,7 @@
 	"command_validation_str" : "Radio19",
 	"current_versions" : [ "2.1.2-alpha.1", "2.1.1-alpha.1", "2.1.1-beta.1", "2.1.1" ],
 	"permitted_version" : [ "2.1.0" ],
-	"authorized_servers" : [ "VCCkXrMF6Ug8xKpoyzC9Smg94b0=" ],
+	"authorized_servers" : [ "" ],
 	"dev_uid_list" : [ "GhfyobshzntzcZnh6o+IEUmJEc0=", "xeC4XznolCFCX7vofE7gGg2cYKw=", "9S3J/7yfQKA5V93PfSMB+dbPUOM="],
 	"conflicting_plugins" : [ "task_force_radio", "acre2", "tokovoip"]
 }
